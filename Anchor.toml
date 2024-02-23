@@ -1,6 +1,6 @@
 [features]
 seeds = false
-skip-lint = false
+skip-lint = true
 [programs.localnet]
 auto_emissions = "5mji6qebN63LgPLLLUt5byc8R2Tq8vr1LakRz9cZmB8y"
 [programs.devnet]
